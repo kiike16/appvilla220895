@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockNova</string>
+    <string name="required_field">Campo requerido</string>
+    <string name="privacy_title">Aviso de Privacidad</string>
+    <string name="accept">Aceptar</string>
+    <string name="reject">Rechazar</string>
+    <string name="must_accept_privacy">Debes aceptar el aviso para continuar</string>
+    <string name="bad_credentials">Correo o contraseña incorrectos ❌</string>
+</resources>

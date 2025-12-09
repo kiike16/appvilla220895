@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="roles_array">
+        <item>Administrador</item>
+        <item>Empleado de almacén</item>
+        <item>Supervisor</item>
+    </string-array>
+</resources>
